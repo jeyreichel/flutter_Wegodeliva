@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "736230976062",
+    "firebase_url": "https://wegodeliva-be165-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wegodeliva-be165",
+    "storage_bucket": "wegodeliva-be165.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736230976062:android:84c0d8d01380a962313f6f",
+        "android_client_info": {
+          "package_name": "com.wegodeliva.customerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736230976062-tjcplogngq3rn7l1st9aampr8bm91ngp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wegodeliva.customerapp",
+            "certificate_hash": "10a8d3d2b610b35952e1dcc1c77af5e0632245a1"
+          }
+        },
+        {
+          "client_id": "736230976062-mhgn2ok6uf43ksru20euc6ts1c73d3pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsQdihenN7Y4Nluo4xsDDphz7it_PoQmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736230976062-mhgn2ok6uf43ksru20euc6ts1c73d3pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736230976062:android:8847c6ba79f877bd313f6f",
+        "android_client_info": {
+          "package_name": "com.wegodeliva.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736230976062-e5d22fpk4a711dtuni6n5blkeu7fm4uc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wegodeliva.riderapp",
+            "certificate_hash": "10a8d3d2b610b35952e1dcc1c77af5e0632245a1"
+          }
+        },
+        {
+          "client_id": "736230976062-mhgn2ok6uf43ksru20euc6ts1c73d3pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsQdihenN7Y4Nluo4xsDDphz7it_PoQmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736230976062-mhgn2ok6uf43ksru20euc6ts1c73d3pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736230976062:android:4a77e09de3f31c1b313f6f",
+        "android_client_info": {
+          "package_name": "com.wegodeliva.vendorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736230976062-i0adq28ua9kf5s6tnt3cvaaclb68sjjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wegodeliva.vendorapp",
+            "certificate_hash": "10a8d3d2b610b35952e1dcc1c77af5e0632245a1"
+          }
+        },
+        {
+          "client_id": "736230976062-mhgn2ok6uf43ksru20euc6ts1c73d3pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsQdihenN7Y4Nluo4xsDDphz7it_PoQmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736230976062-mhgn2ok6uf43ksru20euc6ts1c73d3pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
