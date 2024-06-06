@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>736230976062-19bp3ug53c7q8ok3aifikscted3207b9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAZIZ7qOxJEGGL7R-IbIl0EzAJRaa9AyKk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>736230976062</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wegodeliva.vendorapp</string>
+	<key>PROJECT_ID</key>
+	<string>wegodeliva-be165</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wegodeliva-be165.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:736230976062:ios:da83dfa442b2fd39313f6f</string>
+	<key>DATABASE_URL</key>
+	<string>https://wegodeliva-be165-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
